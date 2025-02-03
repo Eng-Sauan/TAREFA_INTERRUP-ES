@@ -1,1 +1,3 @@
 A atividade consistiu em programar a placa BitDogLab, com arquitetura Pi Pico W, para exibir a numeração de 0 a 9 em uma matriz de LEDs. Utilizando interrupções, o código foi desenvolvido para que o botão A incrementasse o número exibido e o botão B o decrementasse. Essa abordagem permitiu a manipulação de entradas e saídas digitais e o controle da interface de display de forma eficiente.
+
+LINK VÍDEO DE APRESENTAÇÃO DO CÓDIGO: https://drive.google.com/drive/u/0/folders/1IPPbp1eweJeonkhnwzkFjCrLtQVcTiLf
